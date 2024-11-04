@@ -1,7 +1,3 @@
-Based on the information you’ve provided, here’s a GitHub README template for your profile:
-
----
-
 # Hi there, I'm Muthoni 👋
 
 🌐 **Full-Stack Developer | Mobile Developer | Cybersecurity Enthusiast**
