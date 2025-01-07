@@ -59,7 +59,7 @@ I love collaborating on open-source projects and sharing my learning journey wit
 ### 📫 Let's Connect!
 
 - **GitHub**: [simplymuthoni](https://github.com/simplymuthoni)
-- **LinkedIn**:  
+- **LinkedIn**: [Patricia Mugo] (https://www.linkedin.com/in/patricia-m-a70461136/)
 - **Instagram**: 
 
 Thanks for stopping by! 😊
