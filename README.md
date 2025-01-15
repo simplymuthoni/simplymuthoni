@@ -1,6 +1,6 @@
 # Hi there, I'm Muthoni 👋
 
-🌐 **Full-Stack Developer | Mobile Developer | Cybersecurity **
+🌐 **Full-Stack Developer | Mobile Developer | Cybersecurity 
 
 I’m Muthoni, a passionate developer with a focus on building robust and secure applications. With experience across a range of technologies, I enjoy working on both backend and frontend development, particularly for mobile applications. I also have a strong interest in cybersecurity, with experience gained from the Cyber Shujaa Bootcamp.
 
