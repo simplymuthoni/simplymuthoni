@@ -1,65 +1,64 @@
-# Hi there, I'm Muthoni 👋
+# Hi there, I'm Muthoni 👋  
 
-🌐 **Full-Stack Developer | Mobile Developer | Cybersecurity 
+🌐 **Full-Stack Developer | Mobile Developer | Cybersecurity Enthusiast**  
 
-I’m Muthoni, a passionate developer with a focus on building robust and secure applications. With experience across a range of technologies, I enjoy working on both backend and frontend development, particularly for mobile applications. I also have a strong interest in cybersecurity, with experience gained from the Cyber Shujaa Bootcamp.
-
----
-
-### 🔧 Technologies & Skills
-
-- **Languages**: Python, JavaScript, React Native, HTML, CSS
-- **Frameworks**: Flask, React Native, Expo
-- **Backend**: Flask, Node.js
-- **Databases**: MySQL, MongoDB
-- **Mobile Development**: React Native (with Expo and Galio Framework)
-- **APIs**: RESTful API development
-- **Version Control**: Git, GitHub
-- **Other**: Basic cybersecurity principles, acquired through the Cyber Shujaa Bootcamp
+I’m Muthoni, a passionate developer dedicated to building **secure, scalable, and user-friendly** applications. With experience spanning backend, frontend, and mobile development, I thrive on solving problems through technology. I also have a strong interest in **cybersecurity**, having gained hands-on skills through the **Cyber Shujaa Bootcamp**.  
 
 ---
 
-### 💼 Notable Projects
+## 🔧 Technologies & Skills  
 
-1. **Flight Booking System** (Backend - Python Flask)
-   - Developed during my attachment at Ezen Financials.
-   - Responsible for creating the backend with features like CRUD operations for flights, airplanes, and airports, as well as user management.
-   - Handled admin features, including user authentication and forgot password functionality.
-
-2. **Mobile App Development** (React Native + Expo)
-   - Currently working on a React Native project with Expo, implementing UI elements and interactive components.
-   - Integrated the `@react-native-community/checkbox` package after an update in React Native.
-
-3. **Cybersecurity Bootcamp Project**
-   - Attended the Women's Cyber Shujaa Bootcamp at USIU Africa to strengthen my understanding of cybersecurity practices and principles.
-   
----
-
-### 🚀 What I’m Currently Working On
-
-- Developing a **Flight Booking API** using **Flask** to manage various backend features.
-- Enhancing my **React Native** skills with the **Galio Framework**.
-- Crafting content for my Instagram account focusing on **programming** and **developer insights**.
+- **Languages:** Python, JavaScript, React Native, HTML, CSS  
+- **Frameworks:** Flask, React Native, Expo  
+- **Backend:** Flask, Node.js  
+- **Databases:** MySQL, MongoDB  
+- **Mobile Development:** React Native (with Expo and Galio Framework)  
+- **APIs:** RESTful API development  
+- **Version Control:** Git, GitHub  
+- **Other:** Cybersecurity fundamentals, API security, and secure coding best practices  
 
 ---
 
-### 📚 Learning Goals
+## 💼 Notable Projects  
 
-- **Advanced Cybersecurity**: I am expanding my knowledge in cybersecurity to build more secure applications.
-- **Backend Frameworks**: Diving deeper into frameworks like Django and Express for more scalable backend solutions.
-- **Cloud Services**: Gaining hands-on experience with cloud platforms like AWS and Azure for better deployment and scaling of applications.
+### ✈️ Flight Booking System (Backend - Flask)  
+📌 Developed during my attachment at **Ezen Financials**  
+✔️ Implemented CRUD operations for flights, airplanes, and airports  
+✔️ User authentication and admin features (including password reset)  
+✔️ Database integration for efficient flight management  
+
+### 📱 Mobile App Development (React Native + Expo)  
+✔️ Currently building an interactive **React Native** app  
+✔️ Integrated **@react-native-community/checkbox** for better UI interactions  
+✔️ Exploring **Galio Framework** for elegant mobile UI components  
+
+### 🔒 Cybersecurity Bootcamp Project  
+📌 Participated in **Women’s Cyber Shujaa Bootcamp** at **USIU Africa**  
+✔️ Strengthened security knowledge for **secure software development**  
+✔️ Gained insights into **ethical hacking, network security, and encryption**  
 
 ---
 
-### 💡 Fun Fact
-I love collaborating on open-source projects and sharing my learning journey with others. When I'm not coding, I'm probably reading tech blogs or experimenting with new programming languages.
+## 🚀 What I’m Currently Working On  
+
+- Enhancing my **Flight Booking API** with **Flask & JWT authentication**  
+- Improving **React Native skills** and UI design with **Galio Framework**  
+- Creating **developer content** for Instagram 📱  
 
 ---
 
-### 📫 Let's Connect!
+## 📚 Learning & Growth  
 
-- **GitHub**: [simplymuthoni](https://github.com/simplymuthoni)
-- **LinkedIn**: [Patricia Mugo] (https://www.linkedin.com/in/patricia-m-a70461136/)
-- **Instagram**: 
+🌟 **Cybersecurity:** API security, OWASP Top 10, and penetration testing  
+🌟 **Backend Development:** Exploring **Django & Express.js**  
+🌟 **Cloud Computing:** Learning **AWS, Azure, and containerization**  
 
-Thanks for stopping by! 😊
+---
+
+## 🎯 Let's Connect!  
+
+[![GitHub](https://img.shields.io/badge/GitHub-@simplymuthoni-black?style=for-the-badge&logo=github)](https://github.com/simplymuthoni)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricia%20Mugo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patricia-m-a70461136/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-pink?style=for-the-badge&logo=instagram)](#)  
+
+📬 **Let's build something great together!** 🚀  
