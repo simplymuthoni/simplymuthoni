@@ -1,6 +1,6 @@
-# Hi there, I'm Muthoni 👋  
+# Hi there, I'm Mugo Patricia 👋  
 
-🌐 **Full-Stack Developer | Mobile Developer | Cybersecurity Enthusiast**  
+🌐 **Full-Stack Developer | Mobile Developer | Cybersecurity **  
 
 I’m Muthoni, a passionate developer dedicated to building **secure, scalable, and user-friendly** applications. With experience spanning backend, frontend, and mobile development, I thrive on solving problems through technology. I also have a strong interest in **cybersecurity**, having gained hands-on skills through the **Cyber Shujaa Bootcamp**.  
 
