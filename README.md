@@ -67,7 +67,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **secu
 
 ## Featured Projects
 
-### ✈️ Flight Booking System
+### Flight Booking System
 **Backend API built with Flask**
 - JWT authentication & user management
 - Complete CRUD operations for flights, airplanes, and airports
