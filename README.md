@@ -1,4 +1,4 @@
-# Hi there, I'm Patricia Mugo 👋
+# Hi there, I'm Mugo Patricia
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+Developer;Cybersecurity+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -13,20 +13,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full-Stack Developer** with a strong focus on building **secure, scalable, and user-friendly** applications. My journey spans backend development, frontend technologies, mobile app development, and cybersecurity. I believe in writing clean code and implementing security best practices from the ground up.
 
-- 🔭 Currently working on enhancing my **Flight Booking API** with Flask & JWT authentication
-- 🌱 Learning **AWS, Azure, and containerization technologies**
-- 👯 Looking to collaborate on **open-source projects** and **mobile applications**
-- 🛡️ Cybersecurity enthusiast with hands-on experience from **Cyber Shujaa Bootcamp**
-- 📱 Creating developer content for Instagram
-- ⚡ Fun fact: I love solving complex problems through elegant code solutions
+- Currently working on enhancing my **Flight Booking API** with Flask & JWT authentication
+- Learning **AWS, Azure, and containerization technologies**
+- Looking to collaborate on **open-source projects** and **mobile applications**
+- Cybersecurity enthusiast with hands-on experience from **Cyber Shujaa Bootcamp**
+- Creating developer content for Instagram
+- Fun fact: I love solving complex problems through elegant code solutions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **secu
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simplymuthoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -68,36 +68,36 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building **secu
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### ✈️ Flight Booking System
 **Backend API built with Flask**
-- 🔐 JWT authentication & user management
-- ✈️ Complete CRUD operations for flights, airplanes, and airports
-- 🛡️ Secure password reset functionality
-- 📊 Admin dashboard features
+- JWT authentication & user management
+- Complete CRUD operations for flights, airplanes, and airports
+- Secure password reset functionality
+- Admin dashboard features
 
 **Tech Stack:** `Flask` `MySQL` `JWT` `Python`
 
-### 📱 Mobile Application Development
+### Mobile Application Development
 **React Native with Expo**
-- 📱 Cross-platform mobile app development
-- 🎨 UI/UX design with Galio Framework
-- ⚡ Interactive components and smooth animations
-- 🔄 Real-time data synchronization
+- Cross-platform mobile app development
+- UI/UX design with Galio Framework
+- Interactive components and smooth animations
+- Real-time data synchronization
 
 **Tech Stack:** `React Native` `Expo` `Galio Framework` `JavaScript`
 
-### 🔒 Cybersecurity Projects
+### Cybersecurity Projects
 **Women's Cyber Shujaa Bootcamp - USIU Africa**
-- 🛡️ Security assessment and penetration testing
-- 🔐 Secure coding practices implementation
-- 📋 OWASP Top 10 vulnerability analysis
-- 🌐 Network security and encryption protocols
+- Security assessment and penetration testing
+- Secure coding practices implementation
+- OWASP Top 10 vulnerability analysis
+- Network security and encryption protocols
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```python
 class CurrentGoals:
@@ -121,7 +121,7 @@ class CurrentGoals:
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
