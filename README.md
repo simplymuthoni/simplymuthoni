@@ -17,11 +17,8 @@
 
 I'm a passionate **Full-Stack Developer** with a strong focus on building **secure, scalable, and user-friendly** applications. My journey spans backend development, frontend technologies, mobile app development, and cybersecurity. I believe in writing clean code and implementing security best practices from the ground up.
 
-- Currently working on enhancing my **Flight Booking API** with Flask & JWT authentication
 - Learning **AWS, Azure, and containerization technologies**
 - Looking to collaborate on **open-source projects** and **mobile applications**
-- Cybersecurity enthusiast with hands-on experience from **Cyber Shujaa Bootcamp**
-- Creating developer content for Instagram
 - Fun fact: I love solving complex problems through elegant code solutions
 
 ---
