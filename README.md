@@ -10,9 +10,9 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/simplymuthoni?style=for-the-badge&color=ff69b4&labelColor=ff1493)](https://github.com/simplymuthoni)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-m-a70461136/)
-  [![Profile Views](https://komarev.com/ghpvc/?username=simplymuthoni&color=ff69b4&style=for-the-badge&label=Profile+Views)](https://github.com/simplymuthoni)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=web&logoColor=white)](https://mugo-patricia.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Let's_Talk-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciamuthoni414@gmail.com)
   
 </div>
 
@@ -27,24 +27,24 @@ const patricia = {
     pronouns: "she/her",
     role: "Full-Stack Developer",
     passions: ["Clean Code", "Security", "Mobile Apps", "Problem Solving"],
-    currentlyLearning: ["AWS ", "Azure ", "Docker", "Kubernetes "],
-    funFact: "I turn coffee into elegant code solutions ",
-    motto: "Empowering the digital world, one line of code at a time "
+    exploring: ["Cloud Architecture", "DevOps", "AI/ML Integration"],
+    funFact: "I turn coffee into elegant code solutions ☕",
+    motto: "Empowering the digital world, one line of code at a time 💫"
 };
 ```
 
 **What drives me:** Creating secure, scalable, and beautiful applications that make a difference  
-**Current Focus:** Mastering cloud technologies and contributing to open-source  
-**Collaboration:** Always excited to work on innovative projects and mobile applications  
-**Growth Mindset:** Constantly learning and embracing new challenges  
+**My Approach:** Strategic thinking meets creative problem-solving  
+**Open to:** Exciting opportunities, collaborations, and innovative projects  
+**Always:** Learning, growing, and pushing boundaries  
 
 ---
 
-##  Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
-###  Languages
+### 🎨 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -52,7 +52,7 @@ const patricia = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -61,110 +61,127 @@ const patricia = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### ☁️ Currently Exploring
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simplymuthoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplymuthoni&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simplymuthoni&theme=radical&background=0d1117&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simplymuthoni&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
 ### ✈️ Flight Booking System
-<img src="https://img.shields.io/badge/Featured-Project-ff69b4?style=for-the-badge" />
-
 **Elegant Backend API crafted with Flask**
-- JWT authentication & comprehensive user management
-- Complete CRUD operations for flights, airplanes, and airports
-- Secure password reset functionality with encryption
-- Intuitive admin dashboard with analytics
 
-**Tech Stack:** `Flask` `MySQL` `JWT` `Python` `Security`
+A comprehensive flight booking system showcasing full-stack development expertise and security best practices.
+
+**Key Features:**
+- 🔐 JWT-based authentication & authorization
+- 👤 Comprehensive user management system
+- ✈️ Complete CRUD operations for flights, airplanes, and airports
+- 🔑 Secure password reset with email verification
+- 📊 Intuitive admin dashboard with analytics
+- 🛡️ Input validation and SQL injection protection
+
+**Tech Stack:** `Flask` `MySQL` `JWT` `Python` `RESTful API` `Security Best Practices`
+
+---
 
 ### 🔐 Cybersecurity Portfolio
-<img src="https://img.shields.io/badge/Featured-Project-ff69b4?style=for-the-badge" />
-
 **Women's Cyber Shujaa Bootcamp - USIU Africa**
-- 🛡️ Advanced security assessment and penetration testing
+
+Comprehensive security training and practical implementation of industry-standard security protocols.
+
+**Expertise Gained:**
+- 🛡️ Security assessment and penetration testing methodologies
 - 💻 Secure coding practices and vulnerability mitigation
-- 📋 OWASP Top 10 comprehensive analysis and reporting
+- 📋 OWASP Top 10 analysis and security reporting
 - 🌐 Network security protocols and encryption implementation
+- 🔍 Threat modeling and risk assessment
+- 🎯 Incident response and security monitoring
+
+**Focus Areas:** `Ethical Hacking` `Network Security` `Application Security` `Security Compliance`
 
 </div>
 
 ---
 
-##  Current Journey
+## 🎯 Professional Focus
 
 <div align="center">
 
-```python
-class PatriciaGoals2025:
-    def __init__(self):
-        self.currently_mastering = {
-            "cloud": ["AWS ", "Azure", "Google Cloud "],
-            "devops": ["Docker", "Kubernetes ", "CI/CD"],
-            "frameworks": ["Django", "Advanced React Native"],
-            "security": ["Ethical Hacking ", "Secure Architecture "]
-        }
-        
-        self.building = [
-            "Enhanced Flight Booking API v2.0",
-            "Revolutionary Mobile App Portfolio",
-            "Cybersecurity Automation Tools"        ]
-        
-        self.contributing_to = [
-            "Open Source Projects",
-            "Developer Community Content",
-            "Tech Talks & Workshops",
-            "Mentoring Aspiring Developers"
-        ]
-    
-    def daily_motto(self):
-        return "✨ Every line of code is a step towards a better tomorrow ✨"
-```
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 Current Growth Areas
+- Cloud Architecture (AWS, Azure)
+- DevOps & CI/CD Pipelines
+- Microservices Architecture
+- Advanced Mobile Development
+- Security-First Development
+
+</td>
+<td width="50%">
+
+### 💡 What I Bring
+- Strategic Problem-Solving
+- Clean, Maintainable Code
+- Security-Conscious Design
+- User-Centric Approach
+- Continuous Learning Mindset
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Create Magic Together!
+## 💼 Let's Collaborate!
+
+<div align="center">
+
+I'm passionate about working on projects that make a real impact. Whether it's building secure applications, 
+creating beautiful mobile experiences, or implementing robust backend systems, I'm always excited to collaborate 
+with fellow developers and innovative teams.
+
+### 🚀 Open to:
+**Full-time Opportunities** • **Freelance Projects** • **Open Source Contributions** • **Tech Mentorship**
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)](https://github.com/simplymuthoni)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff69b4)](https://www.linkedin.com/in/patricia-m-a70461136/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff69b4)](mailto:patriciamuthoni414@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=web&logoColor=white)](https://mugo-patricia.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff69b4)](https://www.linkedin.com/in/patricia-m-a70461136/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-ff69b4?style=for-the-badge&logo=web&logoColor=white)](https://mugo-patricia.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff69b4)](mailto:patriciamuthoni414@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)](https://github.com/simplymuthoni)
   
 </div>
 
@@ -176,11 +193,11 @@ class PatriciaGoals2025:
 
 <div align="center">
   
-  ### *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."* 
+  ### ✨ *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."* ✨
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Thank you for visiting my digital space!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   
-  **If my work resonates with you, consider starring my repositories! **
+  **Let's build something amazing together! 🚀**
   
   ![Pink Heart](https://img.shields.io/badge/Made%20with-💖-ff69b4?style=for-the-badge)
   
