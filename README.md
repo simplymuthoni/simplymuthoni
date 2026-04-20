@@ -87,46 +87,6 @@ const patricia = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### ✈️ Flight Booking System
-**Elegant Backend API crafted with Flask**
-
-A comprehensive flight booking system showcasing full-stack development expertise and security best practices.
-
-**Key Features:**
-- 🔐 JWT-based authentication & authorization
-- 👤 Comprehensive user management system
-- ✈️ Complete CRUD operations for flights, airplanes, and airports
-- 🔑 Secure password reset with email verification
-- 📊 Intuitive admin dashboard with analytics
-- 🛡️ Input validation and SQL injection protection
-
-**Tech Stack:** `Flask` `MySQL` `JWT` `Python` `RESTful API` `Security Best Practices`
-
----
-
-### 🔐 Cybersecurity Portfolio
-**Women's Cyber Shujaa Bootcamp - USIU Africa**
-
-Comprehensive security training and practical implementation of industry-standard security protocols.
-
-**Expertise Gained:**
-- 🛡️ Security assessment and penetration testing methodologies
-- 💻 Secure coding practices and vulnerability mitigation
-- 📋 OWASP Top 10 analysis and security reporting
-- 🌐 Network security protocols and encryption implementation
-- 🔍 Threat modeling and risk assessment
-- 🎯 Incident response and security monitoring
-
-**Focus Areas:** `Ethical Hacking` `Network Security` `Application Security` `Security Compliance`
-
-</div>
-
----
-
 ## 🎯 Professional Focus
 
 <div align="center">
