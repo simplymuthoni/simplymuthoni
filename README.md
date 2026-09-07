@@ -1,11 +1,11 @@
 # Hello Beautiful Souls, I'm Mugo Patricia 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=300&section=header&text=Patricia%20Mugo&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=300&section=header&text=Mugo%20Patricia&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=51&descAlign=62" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=✨+Building+Beautiful+Digital+Experiences;💻+Full-Stack+%26+Mobile+Developer;🔐+Cybersecurity+Enthusiast;🌸+Passionate+Problem+Solver;💖+Code+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=✨+Building+Beautiful+Digital+Experiences;💻+Full-Stack+%26+Mobile+Developer;🌸+Passionate+Problem+Solver;💖+Code+with+Purpose" alt="Typing SVG" />
 </p>
 
 <div align="center">
